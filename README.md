@@ -1,2 +1,2 @@
-# NodeScoketWithAngular
-Basic AngularJs project with NodeJs, Socket.IO
+# RestApiWithNodeTypeScript
+RESTful API with Node.js, Express & TypeScript
